@@ -23,9 +23,10 @@ A Django REST Framework-based Task Management System with full CRUD operations, 
 
 ### Installation
 
-1. **Clone or navigate to the project directory**
+1. **Clone the repository**
    ```bash
-   cd /var/www/Python/Treeshainfotech/task_manager
+   git clone https://github.com/Devarth1109/task_manager.git
+   cd task_manager
    ```
 
 2. **Create and activate a virtual environment**
